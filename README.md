@@ -1,7 +1,7 @@
 # Smart Word Redactor
 https://github.com/user-attachments/assets/bedbd7e2-1654-4120-bfca-c23bc6c39526
 
-## User useflow
+## User Flow
 1. Upload PDF document 
 2. Enter the words to redact
 3. Review and Download redacted PDF
