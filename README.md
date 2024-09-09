@@ -1,2 +1,2 @@
-# smart-word-redactor-private
-Redact the sensitive words in documents
+# Smart Word Redactor
+The web app redacts the sensitive words in documents
