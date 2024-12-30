@@ -25,6 +25,8 @@
 # License
 - Associated with Jigo.ai, which holds the app’s license.
 
+### [> Tour other projects...](https://github.com/hyunah-jung95#projects)
+
 # Tech Stacks
 - Programming: Python, Streamlit
 - Gloud Platform: Azure
